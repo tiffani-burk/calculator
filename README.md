@@ -3,8 +3,8 @@
 This application is a fully functioning calculator. The user can divide, multiply, add and subtract. 
 
 ## Tech Stack
-Javascript
-React.js
+Javascript <br>
+React.js <br>
 CSS
 
 ## Images
