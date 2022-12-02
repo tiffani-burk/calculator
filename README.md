@@ -9,7 +9,7 @@ React.js <br>
 CSS
 
 ## Relevant Links
-<li> <a href="https://630671edf50cf717dbf95936--dynamic-starship-ca4dca.netlify.app/">Deployed Site </li>
+<li> <a href="https://tiffscalculator.netlify.app/">Deployed Site </li>
 
 ## Images
 
